@@ -40,3 +40,9 @@ The dataset includes information about Netflix titles such as:
 The dataset shows that movies dominate Netflix's catalog, while TV shows make up a smaller but still significant portion of the platform.
 
 ![Movies vs TV Shows](visuals/movies_vs_tv.png)
+
+## Movies vs TV Shows on Netflix
+
+The dataset shows that movies dominate Netflix's catalog, while TV shows make up a smaller but still significant portion of the platform.
+
+![Movies vs TV Shows](visuals/movies_vs_tv.png)
