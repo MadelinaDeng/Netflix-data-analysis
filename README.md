@@ -74,7 +74,7 @@ This concentration of titles within a few popular genres means users are often p
 ## 4. Movie Duration Distribution
 
 <p align="center">
-<img src="visuals/movie_distribution.png" width="600">
+<img src="visuals/movie_duration_distribution.png" width="600">
 </p>
 
 The distribution of movie durations shows that most Netflix movies fall between **80 and 120 minutes**, which aligns with the traditional feature film length.
