@@ -1,6 +1,7 @@
 # Netflix Content Analysis: Understanding Choice Fatigue
 
 ## Overview
+Python data analysis project exploring Netflix’s content catalog and how rapid growth may contribute to viewer choice fatigue.
 
 During a second-year business course at Simon Fraser University, interviews with Netflix users revealed a recurring issue known as **choice fatigue**. Many users reported feeling overwhelmed by the number of titles available when browsing the platform.
 
