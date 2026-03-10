@@ -41,3 +41,26 @@ The dataset shows that movies dominate Netflix's catalog, while TV shows make up
 
 ![Movies vs TV Shows](visuals/movies_vs_tv.png)
 
+# Netflix Content Analysis: Understanding Choice Fatigue
+
+## Overview
+This project analyzes Netflix's content catalog to explore how the growth and structure of the platform’s library may contribute to **choice fatigue** experienced by viewers.
+
+Using Python and data analysis libraries, the project examines trends in Netflix content including content growth, genre distribution, and movie durations.
+
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+---
+
+## Movies vs TV Shows
+
+<p align="center">
+<img src="visuals/movies_vs_tv.png" width="600">
+</p>
+
+This visualization compares the number of movies and TV shows
